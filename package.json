@@ -1,0 +1,24 @@
+{
+  "name": "app-for-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opjs105rogue/app-for-messages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/opjs105rogue/app-for-messages/issues"
+  },
+  "homepage": "https://github.com/opjs105rogue/app-for-messages#readme",
+  "dependencies": {
+    "typescript": "^5.8.2"
+  }
+}
